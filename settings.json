@@ -8,7 +8,7 @@
   "server": {
     "ip": "naechatt.aternos.me",
     "port": 19048,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
@@ -38,7 +38,7 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
+    "auto-reconnect-delay": 200,
     "max-reconnect-delay": 120000
   },
   "movement": {
@@ -73,7 +73,7 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
+    "enabled": true,
     "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
     "events": {
       "connect": true,
